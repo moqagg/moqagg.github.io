@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://moqagg.github.io/Oyn/sitemap.Oyn.gz
